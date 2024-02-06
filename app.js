@@ -1,4 +1,4 @@
-/*
+
 let numeroMaximo = 10;
 let numeroUsado = [];
 let numeroSecreto = generarNumeroSecreto();
@@ -64,7 +64,7 @@ function iniciarJuego() {
 
 }
 
-condicionInicial();*/
+condicionInicial();
 
 /*
 function imc (altura, peso) {
@@ -217,7 +217,7 @@ var sum = array1.map(function (num, idx) {
 });
 
 console.log(sum);*/
-
+/*
 let array = [1, 4, 9, 16];
 
 function calculoCuadrado (array) {
@@ -225,7 +225,7 @@ function calculoCuadrado (array) {
     console.log(cuadrado)
 }
 
-calculoCuadrado(array);
+calculoCuadrado(array);*/
 
 
 
